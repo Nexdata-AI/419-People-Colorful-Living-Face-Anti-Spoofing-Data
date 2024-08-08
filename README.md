@@ -3,7 +3,7 @@
 ## Description
 419 People–Colorful Living_Face & Anti_Spoofing Data. The collection scenes include indoor and outdoor scenes. The data includes males and females. The age distribution ranges from juvenile to the elderly, the young people and the middle aged are the majorities. Devices include cellphone and Pad. The data includes various devices, various anti-spoofing samples, multiple light conditions, multiple scenes. The data can be used for tasks such as colorful remote ID authentication, and living_face & anti_spoofing.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1217?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets?source=Github
 
 
 ## Data size
